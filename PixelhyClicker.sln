@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelhyClicker", "PixelhyClicker\PixelhyClicker.csproj", "{DF481B3D-16E5-411C-95E1-367A7D5FA9FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Release2|Any CPU = Release2|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF481B3D-16E5-411C-95E1-367A7D5FA9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF481B3D-16E5-411C-95E1-367A7D5FA9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF481B3D-16E5-411C-95E1-367A7D5FA9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF481B3D-16E5-411C-95E1-367A7D5FA9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF481B3D-16E5-411C-95E1-367A7D5FA9FE}.Release2|Any CPU.ActiveCfg = Release2|Any CPU
+		{DF481B3D-16E5-411C-95E1-367A7D5FA9FE}.Release2|Any CPU.Build.0 = Release2|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D38966A-AF78-4DDE-AF6A-D5D53AE3E90F}
+	EndGlobalSection
+EndGlobal
