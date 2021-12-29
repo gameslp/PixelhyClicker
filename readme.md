@@ -2,7 +2,7 @@
 
 # 
 
-![](http://pixelhy.net/clicker.png)
+![](http://pixelhy.net/clicker.png?style=display:block;margin:0auto;)
 
 #
 
