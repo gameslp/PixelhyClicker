@@ -6,8 +6,4 @@
 
 #
 
-![](http://pixelhy.net/clicker1.gif)
-
-#
-
 ![](http://pixelhy.net/clicker2.gif)
