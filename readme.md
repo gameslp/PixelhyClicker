@@ -1,4 +1,4 @@
-![](http://pixelhy.net/banner.png)
+
 
 # 
 
